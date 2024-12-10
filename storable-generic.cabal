@@ -6,7 +6,9 @@ cabal-version: 1.12
 
 name:           storable-generic
 version:        0.1.0.5
+synopsis:       Derive Storable instances with GHC.Generics
 description:    Please see the README on GitHub at <https://github.com/YoshikuniJujo/storable-generic#readme>
+category:       Foreign
 homepage:       https://github.com/YoshikuniJujo/storable-generic#readme
 bug-reports:    https://github.com/YoshikuniJujo/storable-generic/issues
 author:         Yoshikuni Jujo
