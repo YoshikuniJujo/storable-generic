@@ -21,8 +21,8 @@ description:         Please see the README on GitHub at <https://github.com/Yosh
 
 dependencies:
 - base >= 4.7 && < 5
-- template-haskell
-- storable-peek-poke
+- template-haskell < 3
+- storable-peek-poke < 1
 
 ghc-options:
 - -Wall
